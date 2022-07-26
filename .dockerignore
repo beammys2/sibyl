@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+.Python
+*.log
+.git
+*.md
+!README*.md
+.travis.yml
+Dockerfile
+docker-compose.yml
+.idea
+.sibyl_venv
+notebooks/*
